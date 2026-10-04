@@ -70,5 +70,3 @@ Tip: I could not run these scripts against a real SQL Server here. The expected 
 - **Sales & Marketing Mart:** purpose – revenue/category/customer analysis. Users – sales and category managers. Benefits – simple flat view, no joins needed.
 - **Delivery & Logistics Mart:** purpose – delivery speed and lateness. Users – operations/logistics managers. Benefits – delivered-orders only, ready-made `is_late` flag, links delivery to review score.
 
-## AI-use acknowledgement (required by the brief – edit to match what you really did)
-"I used Claude (an AI assistant) to help plan the star schema, draft the SQL and ETL scripts, and review my report structure. I ran, tested and verified all scripts and the SSIS packages myself, produced all screenshots and results from my own implementation, and rewrote the explanations in my own words."
