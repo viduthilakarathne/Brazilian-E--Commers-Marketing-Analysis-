@@ -1,4 +1,4 @@
-# Olist DWBI Project – Build Guide (Tasks 1–6)
+# Olist DWBI Project 
 
 Power BI (Task 7) and the dashboard insights (Task 8) are left out, as requested.
 This guide gives you the design, the scripts and the evidence checklist. **The report text, the SSIS packages and the screenshots must be your own work** – the brief does not allow a fully AI-generated submission. Use the notes below as a starting point and rewrite them in your own words.
